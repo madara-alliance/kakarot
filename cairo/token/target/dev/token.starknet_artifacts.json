@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"andnhfm7n9r5s","package_name":"token","contract_name":"StarknetToken","module_path":"token::starknet_token::StarknetToken","artifacts":{"sierra":"token_StarknetToken.contract_class.json","casm":"token_StarknetToken.compiled_contract_class.json"}}]}

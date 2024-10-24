@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"5peartvc1pdj6","package_name":"mock_pragma","contract_name":"MockPragmaOracle","artifacts":{"sierra":"mock_pragma_MockPragmaOracle.sierra.json","casm":"mock_pragma_MockPragmaOracle.casm.json"}}]}
